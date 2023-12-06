@@ -44,4 +44,6 @@ buck-out/
 
 ## Package
 .env
-lib
+
+# Commented out in fork because we want build folder
+# lib
